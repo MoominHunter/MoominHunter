@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
+![cute moomin](https://i.imgur.com/i9Frhtc.jpeg)
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoominHunter&edge_flat=false&title=hits)
 
 
