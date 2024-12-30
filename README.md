@@ -1,5 +1,6 @@
- ![cute_moomin](https://i.imgur.com/7GmJiuF.jpeg)
-
+<div align="center">
+   ![cute_moomin](https://i.imgur.com/7GmJiuF.jpeg)
+ </div>
 
 
 ### 🦾 Skills
