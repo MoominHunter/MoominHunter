@@ -1,5 +1,8 @@
+<div align="center">
+  
 ![cute_moomin](https://i.imgur.com/7GmJiuF.jpeg)
 
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoominHunter&edge_flat=false&title=hits)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -9,6 +12,11 @@
 ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sb71250)](https://solved.ac/sb71250)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pizza4moomin)](https://velog.io/@pizza4moomin/posts)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoominHunter&edge_flat=false&title=hits)
+</div>
+
+
+
