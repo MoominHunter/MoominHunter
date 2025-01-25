@@ -1,8 +1,10 @@
 <div align="center">
   
-![cute_moomin](https://i.imgur.com/7GmJiuF.jpeg)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoominHunter&edge_flat=false&title=hits)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{MoominHunter}"/>
+</a>
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -15,6 +17,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sb71250)](https://solved.ac/sb71250)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pizza4moomin)](https://velog.io/@pizza4moomin/posts)
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoominHunter&edge_flat=false&title=hits)
+
 
 </div>
 
