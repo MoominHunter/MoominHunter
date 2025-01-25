@@ -1,9 +1,11 @@
 <div align="center">
-  
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{MoominHunter}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MoominHunter&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/MoominHunter"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 🦾 Skills
