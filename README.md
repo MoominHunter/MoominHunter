@@ -11,7 +11,7 @@
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) 
 
 **🛠️ Infra and Tools**
 
@@ -25,6 +25,27 @@
 
 
 </div>
+
+
+---
+## 👋 Hello! I'm Sehyeon Oh.  
+
+I'm currently learning essential skills to become a **data analyst.**  
+
+🎓 **Education**  
+- B.A. in English Language & Literature (2019 - 2025)
+- Double Major in Information Statistics  
+
+🇩🇪 **Exchange Program**  
+- Studied at Philipps-Universität Marburg (Winter 2022)  
+
+💡 **Project Experience**  
+- 📌 Recipe Recommendation System
+  - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- 🏠 Real Estate Fraud Prediction & Visualization
+  - ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
+- 🌦️ Multi-class Weather Image Classification  
+- ...  Update Soon
 
 
 
