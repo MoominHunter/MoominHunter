@@ -32,12 +32,12 @@
 
 I'm currently learning essential skills to become a **data analyst.**  
 
-🎓 **Education**  
-- B.A. in English Language & Literature (2019 - 2025)
+🎓 **Education**  (2019 - 2025)
+- B.A. in English Language & Literature
 - Double Major in Information Statistics  
 
-🇩🇪 **Exchange Program**  
-- Studied at Philipps-Universität Marburg (Winter 2022)  
+🇩🇪 **Exchange Program**  (Winter 2022)  
+- Studied at Philipps-Universität Marburg 
 
 💡 **Project Experience**  
 - 📌 Recipe Recommendation System
