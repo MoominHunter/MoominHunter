@@ -38,6 +38,7 @@ I'm currently learning essential skills to become a **data analyst.**
 
 🇩🇪 **Exchange Program**  (Winter 2022)  
 - Studied at Philipps-Universität Marburg 
+  - ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 💡 **Project Experience**  
 - 📌 Recipe Recommendation System
