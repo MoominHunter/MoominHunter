@@ -2,19 +2,6 @@
 
 I'm currently learning essential skills to become a **data analyst.**  
 
-🎓 **Education**  (2019 - 2025)
-- B.A. in English Language & Literature
-- Double Major in Information Statistics  
-
-🇩🇪 **Exchange Program**  (Winter 2022)  
-- Studied at Philipps-Universität Marburg 
-
-💡 **Project Experience**  
-- 📌 Recipe Recommendation System
-  - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-- 🏠 Real Estate Fraud Prediction & Visualization
-  - ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
-
 ---
 
 ### 🦾 Skills
