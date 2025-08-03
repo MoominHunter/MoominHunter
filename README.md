@@ -1,7 +1,7 @@
 ![KakaoTalk_Photo_2025-08-03-12-37-22](https://github.com/user-attachments/assets/3fc884e8-cfcf-4443-b045-0c9d23d579c9)
 
 
-## 👋 Hello! I'm Sehyeon Oh.  
+## 👋 Hello! I'm Sehyun Oh.  
 
 I'm currently learning essential skills to become a **data analyst.**  
 
